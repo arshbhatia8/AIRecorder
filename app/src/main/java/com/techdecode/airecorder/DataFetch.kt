@@ -27,6 +27,7 @@ class DataFetch : AppCompatActivity() {
                     val data = it.getValue(UserData:: class.java)
                     arrayList.add(data!!.name+ data!!.age)
                     fetchedData.text = data!!.name + data!!.age
+
                 }
                 fetchedData.text = arrayList.toString()
             }
