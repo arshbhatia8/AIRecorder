@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098317069764",
+    "firebase_url": "https://airecorder-3e6a5.firebaseio.com",
+    "project_id": "airecorder-3e6a5",
+    "storage_bucket": "airecorder-3e6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098317069764:android:6b2ba5286da0bb172f7891",
+        "android_client_info": {
+          "package_name": "com.techdecode.airecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098317069764-frmic22176v38kgnofi98ci5j46q0v9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2gjGpRHaRuxZs2L3J67vkGraRuaX6l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098317069764-frmic22176v38kgnofi98ci5j46q0v9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
